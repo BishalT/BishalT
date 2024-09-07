@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on several small side projects that make my life easier
+- 🌱 I’m currently learning GO & Vue.Js
+- 📫 How to reach me: Shoot me a DM in Here
+- 🖥️ I've been coding in various languages for 10 years. C/C++, Python, Javascript, Scala... to name a few.
 <!--
 **BishalT/BishalT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
